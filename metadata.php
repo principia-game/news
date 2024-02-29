@@ -49,4 +49,8 @@ $newsMetadata = [
 		'title' => "Principia 1.5.2 Beta build 2023-12-26",
 		'time' => 1703606346,
 	],
+	13 => [
+		'title' => "Principia 2024.02.29",
+		'time' => 1709215589,
+	]
 ];
