@@ -57,5 +57,8 @@ $newsMetadata = [
 		'title' => "Principia is now on F-Droid!",
 		'time' => 1716031984,
 	],
-
+	15 => [
+		'title' => "Principia 2024.06.28",
+		'time' => 1719582742,
+	],
 ];
