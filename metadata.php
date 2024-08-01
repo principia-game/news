@@ -66,4 +66,9 @@ $newsMetadata = [
 		'time' => 1720793384,
 		'cover' => true,
 	],
+	17 => [
+		'title' => "New contest: Destruction Frenzy",
+		'time' => 1722510620,
+		'redirect' => '/contest/1'
+	]
 ];
