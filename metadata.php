@@ -70,5 +70,10 @@ $newsMetadata = [
 		'title' => "New contest: Destruction Frenzy",
 		'time' => 1722510620,
 		'redirect' => '/contest/1'
+	],
+	18 => [
+		'title' => "Please help to test Principia",
+		'time' => 1742681433,
+		'cover' => true,
 	]
 ];
