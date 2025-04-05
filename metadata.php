@@ -75,5 +75,10 @@ $newsMetadata = [
 		'title' => "Please help to test Principia",
 		'time' => 1742681433,
 		'cover' => true,
+	],
+	19 => [
+		'title' => "Principia 2025.04.05",
+		'time' => 1743844835,
+		'cover' => true
 	]
 ];
