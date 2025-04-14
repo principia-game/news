@@ -80,5 +80,10 @@ $newsMetadata = [
 		'title' => "Principia 2025.04.05",
 		'time' => 1743844835,
 		'cover' => true
+	],
+	20 => [
+		'title' => "New contest: Puzzling Puzzles",
+		'time' => 1744637019,
+		'redirect' => '/contest/2'
 	]
 ];
