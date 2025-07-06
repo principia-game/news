@@ -85,5 +85,10 @@ $newsMetadata = [
 		'title' => "New contest: Puzzling Puzzles",
 		'time' => 1744637019,
 		'redirect' => '/contest/2'
+	],
+	21 => [
+		'title' => "Follow Principia on YouTube",
+		'time' => 1751828043,
+		'cover' => true
 	]
 ];
