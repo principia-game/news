@@ -90,5 +90,10 @@ $newsMetadata = [
 		'title' => "Follow Principia on YouTube",
 		'time' => 1751828043,
 		'cover' => true
-	]
+	],
+	22 => [
+		'title' => "Principia in the web browser, and more...",
+		'time' => 1767205844,
+		'cover' => true
+	],
 ];
