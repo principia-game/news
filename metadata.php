@@ -96,4 +96,9 @@ $newsMetadata = [
 		'time' => 1767205844,
 		'cover' => true
 	],
+	23 => [
+		'title' => "New contest: Crazy Circuitry",
+		'time' => 1771244133,
+		'redirect' => '/contest/3'
+	]
 ];
