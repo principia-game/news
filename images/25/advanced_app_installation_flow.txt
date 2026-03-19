@@ -1,0 +1,35 @@
+Advanced flow for power users to sideload apps from unverified developers
+
+1. Confirm you aren't being coached
+
+This is a quick check to make sure that no one is coaching you into turning off your security. While power users know how to vet app, scammers often pressure victims into disabling protections.
+
+2. Restart your phone and reauthenticate
+
+[Security delay required]
+[Because this setting reduces your security, a delay is required to continue.]
+[Restart your device now to begin the security delay]
+
+This cuts off any remote access or active phone calls a scammer might be using to watch what you're doing.
+
+3. Come back after the 24-hour wait and verify
+
+[Security delay complete]
+[You can now continue to change this setting]
+
+There is a one-time, one-day wait and then you can confirm that this is really you who's making this change on your device via a biometric authentication (fingerprint or face unlock) or device PIN. Stammers rely on manufactured urgency. so this breaks their spell and gives you time to think.
+
+4. Enable the settings and you're ready to install apps
+
+[Turn on temporarily]
+[Installing unregistered apps will be allowed for 7 days]
+
+[Turn on indefinitely]
+[Installing unregistered apps will be allowed indefinitely. Not recommended.]
+
+[Confirmation]
+[I understand and accept the risks from unregistered apps, and wish to proceed]
+
+Once you confirm you understand the risks. you're all set to install unverified apps indefinitely.
+
+You'll still see a warning for safety, but you can just tap "Install Anyway."

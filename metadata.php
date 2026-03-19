@@ -106,4 +106,8 @@ $newsMetadata = [
 		'time' => 1772457402,
 		'redirect' => '/contest/4'
 	],
+	25 => [
+		'title' => "The future of Principia on Android",
+		'time' => 1773953933,
+	]
 ];
