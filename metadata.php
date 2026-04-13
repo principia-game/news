@@ -109,5 +109,10 @@ $newsMetadata = [
 	25 => [
 		'title' => "The future of Principia on Android",
 		'time' => 1773953933,
-	]
+	],
+	26 => [
+		'title' => "New contest: Rube Goldberg Machine",
+		'time' => 1776085127,
+		'redirect' => '/contest/5'
+	],
 ];
