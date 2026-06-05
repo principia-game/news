@@ -120,4 +120,9 @@ $newsMetadata = [
 		'time' => 1778502220,
 		'redirect' => '/contest/6'
 	],
+	28 => [
+		'title' => "Principia 2026.06.XX",
+		'time' => 0,
+		'cover' => true
+	],
 ];
