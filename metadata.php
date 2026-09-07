@@ -148,5 +148,10 @@ $newsMetadata = [
 		'title' => "Principia 2026.08.16",
 		'time' => 1786905033,
 		'cover' => true
-	]
+	],
+	34 => [
+		'title' => "The LuaScript API Cheatsheet is now free",
+		'time' => 1788787377,
+		'cover' => true
+	],
 ];
