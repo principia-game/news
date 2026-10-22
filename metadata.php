@@ -159,4 +159,9 @@ $newsMetadata = [
 		'time' => 1789833487,
 		'cover' => true
 	],
+	36 => [
+		'title' => "Principia 2026.10.22",
+		'time' => 1792682067,
+		'cover' => true
+	],
 ];
